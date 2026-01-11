@@ -79,6 +79,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Superinterface](#superinterface)
     - [SeekChat](#seekchat)
     - [Simple AI](#simple-ai)
+    - [Simthery](#smithery)
     - [Tambo](#tambo)
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
@@ -1412,6 +1413,28 @@ Simple AI (simple-ai-io) is a command-based web/cli application, supports MCP.
 
 ![](./screenshots/simple-ai-chat/mcp-settings.png)
 ![](./screenshots/simple-ai-chat/fetch.png)
+
+</details>
+
+### Simthery
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/smithery-ai</td></tr>
+<tr><th align="left">Website</th><td>https://simthery.ai</td></tr>
+<tr><th align="left">License</th><td>MIT License</td></tr>
+<tr><th align="left">Type</th><td>Web/CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Web/npm</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>JavaScript</td></tr>
+</table>
+
+Smithery is a registry and management tool for Model Context Protocol (MCP) servers, featuring a CLI and a web-based playground to host and test MCP tools.
+
+<details>
+<summary>Screenshots</summary>
+
+![](./screenshots/simthery/mcp-servers.png)
+![](./screenshots/simthery/settings.png)
 
 </details>
 
